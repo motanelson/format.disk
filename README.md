@@ -1,2 +1,1 @@
-# end.of.file
-c end of file append to a file
+create a 1.44 Mb format floppy disk
